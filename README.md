@@ -1,0 +1,1 @@
+Project: Rock Paper Scissors on The Odin Project on Web Development 101. We will be implementing the classic Rock Paper Scissors game from console, but will get back to it to add front end as we learn more on the Odin Project.
